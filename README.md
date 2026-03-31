@@ -13,6 +13,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Experimenter;Anime+%2B+Tech+Enthusiast;Building+Cool+Projects;Always+Learning+New+Tech" />
 </p>
 
+<br>
 
 <table>
 <tr>
@@ -31,13 +32,14 @@
 
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rin%20Shima%20reading%20Python.png" width="260">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime-girl-coding.gif" width="250">
 
 </td>
 
 </tr>
 </table>
 
+<br>
 
 ### 🌐 Connect With Me
 
@@ -55,15 +57,17 @@
 
 📫 **Email:** Sexigt@proton.me
 
+<br>
 
 ### 🎧 Currently Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="30">
 
 <p align="center">
 
-<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31auts6hemvywkn2jehjmobwraqm&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=1db954&bar_color_cover=true">
 
 </p>
 
+<br>
 
 ### ⚒️ Tech Stack
 
@@ -73,37 +77,37 @@
 
 </p>
 
+<br>
 
-### 📚 Learning & Inspiration
+### 📚 Programming Vibes
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rin%20Shima%20reading%20Python.png" width="200">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="200">
 
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Shima%20Rin%20reading%20C%2B%2B.png" width="200">
+<img src="https://media.tenor.com/Jv7C6tT0ZQMAAAAC/anime-girl-computer.gif" width="200">
 
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/JavaScript/Mai%20Sakurajima%20reading%20JavaScript.png" width="200">
+<img src="https://media.tenor.com/o7P9YxRcbfYAAAAC/anime-girl-laptop.gif" width="200">
 
 </p>
 
+<br>
 
 ### 📊 GitHub Stats
 
-<p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
 <p align="center">
 
-💻 Built with curiosity, caffeine, and late-night anime.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
 
+<br>
+
+<p align="center">
+💻 Built with curiosity, caffeine, and late-night anime.
+</p>
 
 <p align="right">
 <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="70">
