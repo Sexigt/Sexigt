@@ -74,7 +74,7 @@ Still learning, still building.
 
 <br>
 
-### Stack
+### 🏆 Stack
 
 <p>
 
@@ -84,7 +84,7 @@ Still learning, still building.
 
 <br>
 
-### Study Material 
+### 🕷 Study Material 
 
 <p align="center">
 
@@ -111,7 +111,7 @@ Still learning, still building.
 <br>
 
 <p align="center">
-☕︎‧ built with curiosity, caffeine, and late-night anime 
+☕︎‧ built with curiosity, caffeine, and late-night anime ⁶🤷‍♂️⁷
 </p>
 
 <p align="right">
