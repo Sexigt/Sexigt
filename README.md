@@ -33,7 +33,7 @@ Still learning, still building.
 
 </td>
 
-<td width="60" align="center">
+<td width="160" align="center">
 
 <img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="270">
 
