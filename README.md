@@ -21,11 +21,11 @@
 
 # 🧑‍💻 About Me
 
-- 🐍 Python developer
-- 🤖 Interested in **AI, automation, and backend systems**
-- 🎮 Experimenting with **Unity and tech projects**
-- 🌙 Often coding **late at night**
-- 📚 Always learning something new
+- 🐍 Python developer  
+- 🤖 Interested in **AI, automation, and backend systems**  
+- 🎮 Experimenting with **Unity and tech projects**  
+- 🌙 Often coding **late at night**  
+- 📚 Always learning something new  
 
 ---
 
@@ -55,6 +55,8 @@
 
 </p>
 
+*(Replace `spotify_user_id_here` with your Spotify user id)*
+
 ---
 
 # ⚒️ Tech Stack
@@ -79,42 +81,18 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 📚 Coding Inspiration
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sexigt&theme=tokyonight&hide_border=true"/>
+<a href="https://www.pinterest.com/pin/cool--35184440832655055/">
+<img src="https://i.pinimg.com/originals/placeholder.jpg" width="400">
+</a>
 
 </p>
 
----
-
-# 🏆 Achievements
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sexigt&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sexigt&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sexigt/Sexigt/output/github-contribution-grid-snake.svg">
-
+Anime study vibes 📖
 </p>
 
 ---
@@ -128,9 +106,7 @@
 </p>
 
 <p align="center">
-
 <i>"Present day. Present time. HAHAHA..."</i>
-
 </p>
 
 ---
