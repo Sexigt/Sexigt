@@ -1,7 +1,7 @@
 <h1 align="center">Sexigt</h1>
 
 <p align="center">
-Python • AI • Automation
+python • ai • automation
 </p>
 
 <p align="center">
@@ -19,14 +19,11 @@ Python • AI • Automation
 
 <td width="60%">
 
-### About <img src="https://skillicons.dev/icons?i=python" height="20"> <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="30">
+### About
 
-Python developer  
+Python developer interested in **AI, automation and backend systems**.
 
-Interested in **AI, automation, and backend systems**  
-Experimenting with **Unity and random projects**  
-Usually coding **late at night**  
-Always learning something new
+Currently experimenting with **Unity projects and random ideas**, usually coding **late at night** and learning new technologies along the way.
 
 </td>
 
@@ -55,11 +52,11 @@ Always learning something new
 
 </p>
 
-📫 Email: **Sexigt@proton.me**
+Email: **Sexigt@proton.me**
 
 <br>
 
-### Listening <img src="https://skillicons.dev/icons?i=spotify" height="20"> <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
+### Listening
 
 <p align="center">
 
