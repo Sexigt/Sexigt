@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="100%">
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="50%">
 </p>
 
 <h1 align="center">Hey 👋 I'm Sexigt</h1>
