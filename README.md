@@ -19,7 +19,7 @@ Python • AI • Automation
 
 <td width="60%">
 
-### About <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="35">
+### About <img src="https://skillicons.dev/icons?i=python" height="20"> <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="30">
 
 Python developer  
 
@@ -55,11 +55,11 @@ Always learning something new
 
 </p>
 
-Email: **Sexigt@proton.me**
+📫 Email: **Sexigt@proton.me**
 
 <br>
 
-### Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
+### Listening <img src="https://skillicons.dev/icons?i=spotify" height="20"> <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
 
 <p align="center">
 
