@@ -6,11 +6,11 @@
 <h3 align="center">🐍 Python Developer • 🤖 AI Explorer • 🌙 Late Night Coder</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sexigt&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Sexigt&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Experimenter;Anime+%2B+Tech+Enthusiast;Building+Cool+Projects;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Experimenter;Anime+%2B+Tech+Enthusiast;Building+Cool+Projects;Always+Learning+New+Tech">
 </p>
 
 <br>
@@ -18,21 +18,21 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%">
 
-### 🧑‍💻 About Me <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="30">
+### 🧑‍💻 About Me <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="25">
 
-- 🐍 Python developer  
-- 🤖 Interested in **AI, automation, and backend systems**  
-- 🎮 Experimenting with **Unity projects**  
-- 🌙 Often coding **late at night**  
-- 📚 Always learning something new  
+🐍 Python developer  
+🤖 Interested in **AI, automation, and backend systems**  
+🎮 Experimenting with **Unity & random tech projects**  
+🌙 Usually coding **late at night**  
+📚 Always learning something new  
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime-girl-coding.gif" width="250">
+<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="260">
 
 </td>
 
@@ -46,11 +46,11 @@
 <p>
 
 <a href="https://github.com/Sexigt">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40">
 </a>
 
 <a href="https://twitter.com/Sexigt">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="40">
 </a>
 
 </p>
@@ -59,11 +59,11 @@
 
 <br>
 
-### 🎧 Currently Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="30">
+### 🎧 Currently Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31auts6hemvywkn2jehjmobwraqm&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=1db954&bar_color_cover=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31auts6hemvywkn2jehjmobwraqm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=1db954&bar_color_cover=true">
 
 </p>
 
@@ -73,21 +73,21 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,html,css,nodejs,django,flask,mongodb,git,linux,pytorch,unity"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,html,css,nodejs,django,flask,mongodb,git,linux,pytorch,unity">
 
 </p>
 
 <br>
 
-### 📚 Programming Vibes
+### 📚 Programming Inspiration
 
 <p align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="200">
+<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/Python/kagome_with_python.png" width="180">
 
-<img src="https://media.tenor.com/Jv7C6tT0ZQMAAAAC/anime-girl-computer.gif" width="200">
+<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/C%2B%2B/Cirno_Kirisame_Marisa_Learning_Programming_CPP.png" width="180">
 
-<img src="https://media.tenor.com/o7P9YxRcbfYAAAAC/anime-girl-laptop.gif" width="200">
+<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/Javascript/Mai_Sakurajima_Holding_Eloquent_Javascript.png" width="180">
 
 </p>
 
@@ -110,5 +110,5 @@
 </p>
 
 <p align="right">
-<img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="70">
+<img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="60">
 </p>
