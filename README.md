@@ -18,7 +18,7 @@
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%">
 
 ### 🧑‍💻 About Me <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="25">
 
@@ -30,7 +30,7 @@
 
 </td>
 
-<td width="45%">
+<td width="50%">
 
 <img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="260">
 
