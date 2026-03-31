@@ -17,7 +17,7 @@ python • ai • automation
 <table>
 <tr>
 
-<td width="60%">
+<td width="65%" valign="top">
 
 ### About
 
@@ -27,9 +27,9 @@ Currently experimenting with **Unity projects and random ideas**, usually coding
 
 </td>
 
-<td width="40%">
+<td width="35%" align="center">
 
-<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="260">
+<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="220">
 
 </td>
 
