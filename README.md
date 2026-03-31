@@ -75,7 +75,7 @@
 
 <br>
 
-### 📚 Programming Inspiration
+### 📚 Study Material
 
 <p align="center">
 
