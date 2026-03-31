@@ -1,12 +1,15 @@
-<h1 align="center">Hey 👋 I'm Sexigt</h1>
-<h3 align="center">Python • AI • Automation • Building cool things</h3>
+<h1 align="center">Sexigt</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sexigt&label=Profile%20views&color=0e75b6&style=flat">
+Python • AI • Automation
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Experimenter;Anime+%2B+Tech+Enthusiast;Building+Cool+Projects;Always+Learning+New+Tech">
+<img src="https://komarev.com/ghpvc/?username=Sexigt&label=views&color=0e75b6&style=flat">
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=Python+Developer;AI+Experiments;Automation+Projects;Learning+New+Tech">
 </p>
 
 <br>
@@ -16,17 +19,18 @@
 
 <td width="60%">
 
-### 🧑‍💻 About Me   <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="40">
+### About <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="35">
 
-🐍 Python developer  
-🤖 Interested in **AI, automation, and backend systems**  
-🎮 Experimenting with **Unity & random tech projects**  
-🌙 Usually coding **late at night**  
-📚 Always learning something new  
+Python developer  
+
+Interested in **AI, automation, and backend systems**  
+Experimenting with **Unity and random projects**  
+Usually coding **late at night**  
+Always learning something new
 
 </td>
 
-<td width="50%">
+<td width="40%">
 
 <img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="260">
 
@@ -37,7 +41,7 @@
 
 <br>
 
-### 🌐 Connect With Me
+### Links
 
 <p>
 
@@ -51,11 +55,11 @@
 
 </p>
 
-📫 **Email:** Sexigt@proton.me
+Email: **Sexigt@proton.me**
 
 <br>
 
-### 🎧 Currently Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
+### Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
 
 <p align="center">
 
@@ -65,7 +69,7 @@
 
 <br>
 
-### ⚒️ Tech Stack
+### Stack
 
 <p>
 
@@ -75,7 +79,7 @@
 
 <br>
 
-### 📚 Study Material
+### Study Material
 
 <p align="center">
 
@@ -90,7 +94,7 @@
 <br>
 
 <p align="center">
-💻 Built with curiosity, caffeine, and late-night anime.
+built with curiosity, caffeine, and late-night anime
 </p>
 
 <p align="right">
