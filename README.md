@@ -44,7 +44,7 @@ Still learning, still building.
 
 <br>
 
-### Contact
+### 💬 Contact
 
 <p>
 
@@ -64,7 +64,7 @@ Still learning, still building.
 
 <br>
 
-### Listening 
+### ♫ Listening 
 
 <p align="center">
 
@@ -84,7 +84,7 @@ Still learning, still building.
 
 <br>
 
-### Study Material
+### Study Material 
 
 <p align="center">
 
@@ -98,7 +98,7 @@ Still learning, still building.
 
 <br>
 
-### GitHub Stats
+### 💡 GitHub Stats
 
 <p align="center">
 
@@ -111,7 +111,7 @@ Still learning, still building.
 <br>
 
 <p align="center">
-built with curiosity, caffeine, and late-night anime
+☕︎‧ built with curiosity, caffeine, and late-night anime 
 </p>
 
 <p align="right">
