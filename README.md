@@ -1,9 +1,5 @@
-<p align="center">
-<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="50%">
-</p>
-
 <h1 align="center">Hey 👋 I'm Sexigt</h1>
-<h3 align="center">🐍 Python Developer • 🤖 AI Explorer • 🌙 Late Night Coder</h3>
+<h3 align="center">Python • AI • Automation • Building cool things</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sexigt&label=Profile%20views&color=0e75b6&style=flat">
@@ -82,7 +78,7 @@
 ### 📚 Programming Inspiration
 
 <p align="center">
-
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="50%">
 <img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/Python/kagome_with_python.png" width="180">
 
 <img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/C%2B%2B/Cirno_Kirisame_Marisa_Learning_Programming_CPP.png" width="180">
