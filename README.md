@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/anime-coding.gif" width="100%">
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 I'm Sexigt</h1>
@@ -81,35 +81,6 @@
 
 ---
 
-# 📚 Coding Inspiration
-
-<p align="center">
-
-<a href="https://www.pinterest.com/pin/cool--35184440832655055/">
-<img src="https://i.pinimg.com/webp/1200x/f9/47/bf/f947bfbb294cff3ab27d78b0c059870d.webp" width="400">
-</a>
-
-</p>
-
-<p align="center">
-Anime study vibes 📖
-</p>
-
----
-
-# 🌌 Coding Vibes
-
-<p align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="500">
-
-</p>
-
-<p align="center">
-<i>"Present day. Present time. HAHAHA..."</i>
-</p>
-
----
 
 <p align="center">
 
