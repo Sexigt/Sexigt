@@ -86,7 +86,7 @@
 <p align="center">
 
 <a href="https://www.pinterest.com/pin/cool--35184440832655055/">
-<img src="https://i.pinimg.com/originals/placeholder.jpg" width="400">
+<img src="https://www.pinterest.com/pin/cool--35184440832655055/" width="400">
 </a>
 
 </p>
