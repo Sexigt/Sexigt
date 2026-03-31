@@ -1,4 +1,4 @@
-<h1 align="center">Sexigt</h1>
+<h1 align="center">Welcome to my Profile! // Sexigt</h1>
 
 <p align="center">
 python • ai experiments • automation
@@ -62,15 +62,6 @@ Still learning, still building.
 
 </p>
 
-<br>
-
-### ♫ Listening 
-
-<p align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31auts6hemvywkn2jehjmobwraqm&cover_image=true&theme=default&show_offline=true&background_color=0d1117">
-
-</p>
 
 <br>
 
