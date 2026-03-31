@@ -16,6 +16,7 @@
 
 <table>
 <tr>
+
 <td width="60%">
 
 ### 🧑‍💻 About Me <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="30">
@@ -33,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rin%20Shima%20reading%20Python.png" width="260">
 
 </td>
+
 </tr>
 </table>
 
@@ -58,11 +60,9 @@
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id_here&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true"/>
+<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
 
 </p>
-
-*(replace `spotify_user_id_here` with your Spotify user id)*
 
 
 ### ⚒️ Tech Stack
@@ -74,11 +74,24 @@
 </p>
 
 
+### 📚 Learning & Inspiration
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rin%20Shima%20reading%20Python.png" width="200">
+
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Shima%20Rin%20reading%20C%2B%2B.png" width="200">
+
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/JavaScript/Mai%20Sakurajima%20reading%20JavaScript.png" width="200">
+
+</p>
+
+
 ### 📊 GitHub Stats
 
 <p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true"/>
 
