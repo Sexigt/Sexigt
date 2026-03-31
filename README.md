@@ -13,17 +13,16 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Experimenter;Anime+%2B+Tech+Enthusiast;Building+Cool+Projects;Always+Learning+New+Tech" />
 </p>
 
-<br>
 
 <table>
 <tr>
 <td width="60%">
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="30">
 
 - 🐍 Python developer  
 - 🤖 Interested in **AI, automation, and backend systems**  
-- 🎮 Experimenting with **Unity and tech projects**  
+- 🎮 Experimenting with **Unity projects**  
 - 🌙 Often coding **late at night**  
 - 📚 Always learning something new  
 
@@ -31,17 +30,17 @@
 
 <td width="40%">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="100%">
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rin%20Shima%20reading%20Python.png" width="260">
 
 </td>
 </tr>
 </table>
 
-<br>
 
 ### 🌐 Connect With Me
 
 <p>
+
 <a href="https://github.com/Sexigt">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
@@ -49,39 +48,50 @@
 <a href="https://twitter.com/Sexigt">
 <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
+
 </p>
 
 📫 **Email:** Sexigt@proton.me
 
-<br>
 
-### 🎧 Currently Listening
+### 🎧 Currently Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="30">
 
 <p align="center">
+
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id_here&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true"/>
+
 </p>
 
-<br>
+*(replace `spotify_user_id_here` with your Spotify user id)*
+
 
 ### ⚒️ Tech Stack
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,html,css,nodejs,django,flask,mongodb,git,linux,pytorch,unity"/>
+
 </p>
 
-<br>
 
 ### 📊 GitHub Stats
 
 <p>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<br>
 
 <p align="center">
 
 💻 Built with curiosity, caffeine, and late-night anime.
 
+</p>
+
+
+<p align="right">
+<img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="70">
 </p>
