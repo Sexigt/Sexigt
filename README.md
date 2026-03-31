@@ -79,11 +79,11 @@
 
 <p align="center">
 <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="50%">
-<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/Python/kagome_with_python.png" width="180">
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="180">
 
-<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/C%2B%2B/Cirno_Kirisame_Marisa_Learning_Programming_CPP.png" width="180">
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png?raw=true" width="180">
 
-<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/Javascript/Mai_Sakurajima_Holding_Eloquent_Javascript.png" width="180">
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Mai_Sakurajima_Holding_Eloquent_Javascript.png?raw=true" width="180">
 
 </p>
 
