@@ -1,7 +1,3 @@
-<!-- ================================================= -->
-<!--                     BANNER                        -->
-<!-- ================================================= -->
-
 <p align="center">
 <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="50%">
 </p>
@@ -17,9 +13,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Experimenter;Anime+%2B+Tech+Enthusiast;Building+Cool+Projects;Always+Learning+New+Tech" />
 </p>
 
----
+<br>
 
-# 🧑‍💻 About Me
+<table>
+<tr>
+<td width="60%">
+
+### 🧑‍💻 About Me
 
 - 🐍 Python developer  
 - 🤖 Interested in **AI, automation, and backend systems**  
@@ -27,12 +27,21 @@
 - 🌙 Often coding **late at night**  
 - 📚 Always learning something new  
 
----
+</td>
 
-# 🌐 Connect With Me
+<td width="40%">
 
-<p align="left">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="100%">
 
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🌐 Connect With Me
+
+<p>
 <a href="https://github.com/Sexigt">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
@@ -40,47 +49,36 @@
 <a href="https://twitter.com/Sexigt">
 <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
-
 </p>
 
 📫 **Email:** Sexigt@proton.me
 
----
+<br>
 
-# 🎧 Currently Listening
+### 🎧 Currently Listening
 
 <p align="center">
-
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id_here&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true"/>
-
 </p>
 
-*(Replace `spotify_user_id_here` with your Spotify user id)*
+<br>
 
----
+### ⚒️ Tech Stack
 
-# ⚒️ Tech Stack
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,html,css,nodejs,django,flask,mongodb,git,linux,pytorch,unity"/>
-
 </p>
 
----
+<br>
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
+<br>
 
 <p align="center">
 
