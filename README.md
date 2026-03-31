@@ -30,12 +30,12 @@ Outside of coding I spend time watching anime, listening to music, and usually e
 Still learning, still building.
 
 <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="35">
-
+<img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="35">
 </td>
 
 <td width="160" align="center">
 
-<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="270">
+<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="370">
 
 </td>
 
@@ -64,7 +64,7 @@ Still learning, still building.
 
 <br>
 
-### Listening <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="25">
+### Listening 
 
 <p align="center">
 
