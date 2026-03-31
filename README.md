@@ -20,7 +20,7 @@
 
 <td width="60%">
 
-### 🧑‍💻 About Me <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="40">
+### 🧑‍💻 About Me   <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="40">
 
 🐍 Python developer  
 🤖 Interested in **AI, automation, and backend systems**  
