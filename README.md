@@ -98,13 +98,3 @@ Still learning, still building.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
-
-<br>
-
-<p align="center">
-☕︎‧ built with curiosity, caffeine, and late-night anime ⁶🤷‍♂️⁷
-</p>
-
-<p align="right">
-<img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="60">
-</p>
