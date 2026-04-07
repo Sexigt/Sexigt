@@ -86,15 +86,3 @@ Still learning, still building.
 <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Mai_Sakurajima_Holding_Eloquent_Javascript.png?raw=true" width="180">
 
 </p>
-
-<br>
-
-### 💡 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sexigt&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sexigt&layout=compact&theme=tokyonight&hide_border=true">
-
-</p>
