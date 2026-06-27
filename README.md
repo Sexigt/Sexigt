@@ -1,80 +1,59 @@
-<h1 align="center">Welcome to my Profile! // Sexigt</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=Python+Developer;AI+Experiments;Automation+Projects;Learning+New+Tech;Building+Random+Ideas">
-</p>
-
-<br>
-
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### About
+# Hey there.
 
-I'm a developer mainly working with **Python**, interested in building tools, experimenting with **AI**, and automating things that shouldn't have to be done manually.
+I'm **Sexigt**, a developer who enjoys building software and learning how systems work.
 
-Most of my time is spent exploring new technologies, building small projects, or testing ideas just to see how they work. I enjoy learning how systems fit together — from backend logic to small experiments in **Unity**.
+I primarily work with **C++** and **C#**, but I also use Python, SQL, and JavaScript whenever they're the right tool for the job. Most of my projects range from desktop applications and backend services to automation tools and small experiments.
 
-Outside of coding I spend time watching anime, listening to music, and usually end up coding again late at night.
+I enjoy taking ideas from concept to something functional, whether it's solving a problem, exploring a new technology, or simply building something because it sounded interesting.
 
-Still learning, still building.
+### Main Stack
+
+C++ • C# • Python • SQL • JavaScript • .NET • Django • Flask • MongoDB • Linux • Git • Unity
+
+### Interests
+
+* Systems Programming
+* Backend Development
+* Automation
+* Linux
+* Game Development
+* Open Source
+
+Outside of programming, you'll usually find me watching anime, listening to music, playing games, or working on another side project.
 
 <img src="https://media.tenor.com/I4boMgzaD_EAAAAi/cute-happy.gif" width="35">
-<img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="15">
+<img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="18">
+
 </td>
 
-<td width="160" align="center">
+<td width="35%" align="center">
 
-<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="470">
+<img src="https://preview.redd.it/finn-is-so-off-model-in-the-eyes-lol-v0-hzst9m8ko0wb1.png?auto=webp&s=c9e412e63b93795089ff1109e96c4390d09f6075" width="320">
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-### 💬 Contact
+### Contact
 
-<p>
+* GitHub: https://github.com/Sexigt
+* Twitter: https://twitter.com/Sexigt
+* Email: [Sexigt@proton.me](mailto:Sexigt@proton.me)
 
-<a href="https://github.com/Sexigt">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+---
 
-<a href="https://twitter.com/Sexigt">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
-<a href="mailto:Sexigt@proton.me">
-<img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
-</a>
-
-</p>
-
-
-<br>
-
-### 🏆 Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,html,css,nodejs,django,flask,mongodb,git,linux,pytorch,unity">
-
-</p>
-
-<br>
-
-### 🕷 Study Material 
+### Study Material
 
 <p align="center">
-
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="180">
-
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png?raw=true" width="180">
-
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Mai_Sakurajima_Holding_Eloquent_Javascript.png?raw=true" width="180">
-
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="170">
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png?raw=true" width="170">
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Mai_Sakurajima_Holding_Eloquent_Javascript.png?raw=true" width="170">
 </p>
