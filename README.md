@@ -1,14 +1,6 @@
 <h1 align="center">Welcome to my Profile! // Sexigt</h1>
 
 <p align="center">
-python • ai experiments • automation
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sexigt&label=views&color=0e75b6&style=flat">
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=Python+Developer;AI+Experiments;Automation+Projects;Learning+New+Tech;Building+Random+Ideas">
 </p>
 
