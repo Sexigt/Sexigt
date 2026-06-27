@@ -21,7 +21,7 @@ C++ • C# • Python • SQL • JavaScript • .NET • Django • Flask • M
 
 Outside of programming, you'll usually find me watching anime, listening to music, playing games, or working on another side project.
 
----
+
 
 ### Contact
 
@@ -29,7 +29,7 @@ Outside of programming, you'll usually find me watching anime, listening to musi
 - X: https://twitter.com/Sexigt
 - Email: Sexigt@proton.me
 
----
+
 
 <p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="170">
