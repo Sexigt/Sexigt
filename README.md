@@ -12,19 +12,21 @@ C++ • C# • Python • SQL • JavaScript • .NET • Django • Flask • M
 
 ### Interests
 
-* Systems Programming
-* Backend Development
-* Automation
-* Linux
-* Game Development
-* Open Source
+- Systems Programming
+- Backend Development
+- Automation
+- Linux
+- Game Development
+- Open Source
 
 Outside of programming, you'll usually find me watching anime, listening to music, playing games, or working on another side project.
 
 
 
-[X](https://twitter.com/Sexigt) •
-[Email](mailto:Sexigt@proton.me)
+### Contact
+
+- X: https://twitter.com/Sexigt
+- Email: Sexigt@proton.me
 
 
 
