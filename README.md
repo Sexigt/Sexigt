@@ -1,4 +1,4 @@
-# Hey there.
+# Hey there!
 
 I'm **Sexigt**, a developer who enjoys building software and learning how systems work.
 
