@@ -23,13 +23,6 @@ Outside of programming, you'll usually find me watching anime, listening to musi
 
 
 
-### Contact
-
-- X: https://twitter.com/Sexigt
-- Email: Sexigt@proton.me
-
-
-
 <p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="170">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png?raw=true" width="170">
